@@ -2,7 +2,7 @@
 
 Il existe plusieurs techniques pour détecter si votre code est en train d'être analysé. Voici quelques exemples :
 
-    Anti-debugging : Vous pouvez ajouter des mécanismes pour détecter si votre code est en train d'être exécuté dans un environnement de débogage, qui est souvent utilisé par les analystes pour comprendre le comportement de votre code. Les techniques anti-debugging incluent la détection de points d'arrêt, la détection de la présence de débogueurs, la modification des registres de débogage, etc.
+   - Anti-debugging : Vous pouvez ajouter des mécanismes pour détecter si votre code est en train d'être exécuté dans un environnement de débogage, qui est souvent utilisé par les analystes pour comprendre le comportement de votre code. Les techniques anti-debugging incluent la détection de points d'arrêt, la détection de la présence de débogueurs, la modification des registres de débogage, etc.
 
     Anti-tampering : Vous pouvez ajouter des mécanismes pour détecter si votre code a été modifié, car cela peut indiquer qu'une personne malveillante a essayé de le décompiler ou de le modifier. Les techniques anti-tampering incluent l'utilisation de hachages de fichier, de signatures numériques, de chiffrement et de vérification de l'intégrité du code à l'exécution.
 
