@@ -1,5 +1,4 @@
-# comment-ajouter-des-m-canismes-de-d-tection-de-l-ing-nierie-inverse-pour-d-tecter-si-votre-code-est
-comment  ajouter des mécanismes de détection de l'ingénierie inverse pour détecter si votre code est en train d'être analysé
+# comment  ajouter des mécanismes de détection de l'ingénierie inverse pour détecter si votre code est en train d'être analysé
 
 Il existe plusieurs techniques pour détecter si votre code est en train d'être analysé. Voici quelques exemples :
 
